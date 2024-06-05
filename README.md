@@ -1,0 +1,2 @@
+# myAppNextjs
+Aplicacion nextjs
